@@ -1,4 +1,4 @@
-package io.agileintelligence.ppmtool;
+package com.springboot.ppmapp.tests;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
